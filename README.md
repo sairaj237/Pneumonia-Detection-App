@@ -112,9 +112,9 @@ train/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection-resnet18.git
+git clone https://github.com/sairaj237/Pneumonia-Detection-App.git
 
-cd pneumonia-detection-resnet18
+cd /Pneumonia-Detection-App
 ```
 
 ---
@@ -443,18 +443,4 @@ MIT License
 
 ---
 
-# Acknowledgements
-
-- PyTorch
-- Torchvision
-- NIH Chest X-ray research datasets
-- Open-source medical imaging community
-
----
-
-# Author
-
-Your Name
-
-GitHub: https://github.com/yourusername
 
